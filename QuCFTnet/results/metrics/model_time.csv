@@ -1,0 +1,5 @@
+Model,Training_Time_seconds,Inference_Time_milliseconds
+CNN,246.0,2.0
+LSTM,313.0,3.0
+QNN,295.0,2.1
+QuCFTnet,355.0,4.3
